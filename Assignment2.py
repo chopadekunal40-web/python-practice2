@@ -253,4 +253,4 @@ if registered == "yes":
     else:
         print("Doctor Not Available")
 else:
-    print("Please Register First")
+    print("Please Register First")1
