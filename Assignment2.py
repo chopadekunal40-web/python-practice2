@@ -245,7 +245,7 @@ else:
     print("Out of Stock")
 
 # 6. Hospital Appointment
-registered = input("Registered (yes/no): ")
+registered = i  nput("Registered (yes/no): ")
 if registered == "yes":
     doctor = input("Doctor Available (yes/no): ")
     if doctor == "yes":

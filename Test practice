@@ -1,2 +1,0 @@
-str = "I am studing python from apnacollage"
-print(str.endswith("app"))
