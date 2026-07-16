@@ -40,3 +40,13 @@ print("Count of 40:", numbers.count(40))
 
 
 print("Index of 10:", numbers.index(10))
+
+
+
+Employee Salary Report
+employees = (
+    ("Rahul", 50000),
+    ("Amit", 65000),
+    ("Sneha", 72000),
+    ("Pooja", 58000)
+)
